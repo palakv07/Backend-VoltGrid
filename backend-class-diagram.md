@@ -326,7 +326,7 @@ classDiagram
     ChargingService --> StationRepository
     RecommendationService --> StationService
     PaymentService --> ChargingSessionRepository
-
+```
 
 ## Suggested Java package structure
 
