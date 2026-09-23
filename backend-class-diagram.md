@@ -1,4 +1,6 @@
-'''mermaid
+# VoltGrid Backend Class Diagram
+
+```mermaid
 classDiagram
     direction TB
 
